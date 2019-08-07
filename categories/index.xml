@@ -6,9 +6,28 @@
     <description>Recent content in Categories on Jimi Olaniyan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jul 2019 19:52:01 +0100</lastBuildDate>
     
 	<atom:link href="https://jimiolaniyan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>General</title>
+      <link>https://jimiolaniyan.github.io/categories/general/</link>
+      <pubDate>Fri, 26 Jul 2019 19:52:01 +0100</pubDate>
+      
+      <guid>https://jimiolaniyan.github.io/categories/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting started</title>
+      <link>https://jimiolaniyan.github.io/categories/getting-started/</link>
+      <pubDate>Fri, 26 Jul 2019 19:52:01 +0100</pubDate>
+      
+      <guid>https://jimiolaniyan.github.io/categories/getting-started/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

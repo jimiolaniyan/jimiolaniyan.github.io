@@ -3,8 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jimiolaniyan.github.io/categories/</loc>
+    <lastmod>2019-07-26T19:52:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jimiolaniyan.github.io/2019/07/commitment-to-start-blogging/</loc>
     <lastmod>2019-07-26T19:52:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jimiolaniyan.github.io/categories/general/</loc>
+    <lastmod>2019-07-26T19:52:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jimiolaniyan.github.io/categories/getting-started/</loc>
+    <lastmod>2019-07-26T19:52:01+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -20,12 +38,20 @@
   </url>
   
   <url>
-    <loc>https://jimiolaniyan.github.io/categories/</loc>
+    <loc>https://jimiolaniyan.github.io/tags/</loc>
+    <lastmod>2019-07-26T19:52:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jimiolaniyan.github.io/tags/</loc>
+    <loc>https://jimiolaniyan.github.io/tags/blogging/</loc>
+    <lastmod>2019-07-26T19:52:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jimiolaniyan.github.io/tags/thenewboston/</loc>
+    <lastmod>2019-07-26T19:52:01+01:00</lastmod>
     <priority>0</priority>
   </url>
   
