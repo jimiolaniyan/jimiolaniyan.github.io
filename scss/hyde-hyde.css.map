@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "hyde-hyde.css",
-	"sourceRoot": "/home/jimiolaniyan/Documents/Dev/hugosite",
+	"sourceRoot": "/home/jimiolaniyan/Documents/dev/projects/hugosite",
 	"sources": [
 		"themes/hyde-hyde/assets/scss/hyde-hyde.scss",
 		"themes/hyde-hyde/assets/scss/hyde-hyde/_variables.scss",
